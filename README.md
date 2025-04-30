@@ -40,7 +40,6 @@ Este dashboard foi desenvolvido como parte prática do curso de Power BI que est
 | Arquivo | Descrição |
 |--------|-----------|
 | `dashboard_usuarios_compras.pbix` | Arquivo do projeto Power BI |
-| `dashboard_usuarios_compras.pdf` | Prévia do dashboard em PDF |
 
 ---
 
