@@ -43,12 +43,6 @@ Este dashboard foi desenvolvido como parte prática do curso de Power BI que est
 
 ---
 
-## 🖼️ Visualização
-
-A prévia do relatório pode ser visualizada no arquivo `dashboard_usuarios_compras.pdf`.
-
----
-
 ## 🎓 Sobre o Projeto
 
 Este projeto faz parte das atividades práticas do curso de Power BI. O foco está no aprendizado das ferramentas e lógica por trás da modelagem de dados e construção de dashboards.
