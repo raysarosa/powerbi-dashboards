@@ -1,6 +1,8 @@
 # 📊 Power BI Dashboard – Análise de Usuários, Compras e Atendimento
 
-Este dashboard foi desenvolvido como parte prática do curso de Power BI que estou a realizar. O objetivo do projeto é aplicar conceitos de modelagem de dados, transformação via Power Query (M) e criação de medidas em DAX, usando dados reais simulados de usuários, vendas e atendimento ao cliente.
+Este projeto foi desenvolvido como resultado de um **desafio prático proposto durante um curso de Power BI**. O objetivo foi construir um **dashboard completo**, com foco em **vendas, perfil de usuários e atendimento ao cliente**.
+
+Busquei aplicar na prática conceitos como **modelagem de dados**, **transformações no Power Query (M)** e criação de **medidas em DAX**, desenvolvendo uma solução visualmente clara e orientada à tomada de decisão.
 
 ---
 
@@ -45,14 +47,13 @@ Este dashboard foi desenvolvido como parte prática do curso de Power BI que est
 
 ## 🎓 Sobre o Projeto
 
-Este projeto faz parte das atividades práticas do curso de Power BI. O foco está no aprendizado das ferramentas e lógica por trás da modelagem de dados e construção de dashboards.
-
-Embora o modelo tenha sido orientado pela estrutura do curso, a construção do relatório foi feita por mim, aplicando os conceitos aprendidos.
+Embora o desafio tenha sido proposto como parte de um curso, o projeto foi desenvolvido com foco em aplicar conceitos de análise de dados para criar um painel funcional e estratégico, voltado à tomada de decisão com base em indicadores relevantes.
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Estou a me aprofundar em Power BI e este repositório faz parte do meu portfólio pessoal para demonstrar minha evolução e prática com a ferramenta.
+Sou analista de dados com foco em transformar informações em soluções práticas por meio de visualizações, métricas estratégicas e inteligência de negócio.
+Este repositório integra meu portfólio e demonstra minha experiência na construção de dashboards interativos com Power BI.
 
 ---
